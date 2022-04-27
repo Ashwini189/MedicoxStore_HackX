@@ -11,7 +11,7 @@ import {Navbar, Container, Col} from 'react-bootstrap';
             <Navbar fixed="bottom" bg="dark" variant="dark">
                 <Container>
                     <Col lg={12} className="text-center text-muted">
-                        <div>{fullYear}-{fullYear+1}, All Rights Reserved by Vivek Singh</div>
+                        <div>{fullYear}-{fullYear+1}, All Rights Reserved by Ashwini</div>
                     </Col>
                 </Container>
             </Navbar>
